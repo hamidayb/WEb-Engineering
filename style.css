@@ -42,7 +42,7 @@ header{
 }
 
 img{
-	filter: brightness(70%);
+	filter: brightness(60%);
 }
 
 svg{
@@ -149,11 +149,26 @@ table{
 	top: 50%;
 	left: 10%;
 	color: white;
-	font-family: cursive;
+	font-family: sans-serif;
 }
 
 .para{
 	position: absolute;
+	font-weight: lighter;
+	font-size: 18px;
 	top: 58%;
 	left: 10%;
+}
+
+.alignment{
+	position: absolute;
+	padding: 5px;
+}
+
+.title-pos-1{
+	top: 30%;
+}
+
+.title-pos-2{
+	top: 56%;
 }
