@@ -217,6 +217,7 @@ table{
 .news-td{
 	max-width: 300px;
 	height: auto;
+	padding-right: 15px;
 }
 
 .news-td h3{
@@ -225,7 +226,7 @@ table{
 }
 
 .ad{
-	width:  400px;
+	width: 356px;
 	background: #f2f2f2;
 }
 
